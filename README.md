@@ -6,4 +6,5 @@
   <br>Tf-idf</br>
   <br>n-grams</br>
   <br>bigrams</br>
+  <br>trigrams</br>
 </div>
