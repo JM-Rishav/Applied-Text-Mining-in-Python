@@ -5,4 +5,5 @@
   <br>Count Vectorizer</br>
   <br>Tf-idf</br>
   <br>n-grams</br>
+  <br>bigrams</br>
 </div>
