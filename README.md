@@ -1,8 +1,8 @@
 # Applied-Text-Mining-in-Python
 <div>
-  week 1
-  week 2
-  week 3
+  <br>week 1</br>
+  <br>week 2</br>
+  <br>week 3</br>
 </div>
 <div>
   <br>CASE STUDY : Sentimental Analysis</br>
