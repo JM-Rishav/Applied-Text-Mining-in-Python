@@ -2,7 +2,7 @@
 <div>
   <br>week 1</br>
   <br>week 2</br>
-  <br>week 3</br>
+  
 </div>
 <div>
   <br>CASE STUDY : Sentimental Analysis</br>
@@ -15,6 +15,7 @@
 </div>
 <br></br>
 <div>
+  <h2>week 3</h2>
   More about Latent dirichlet allocation
   <a href = "https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation"> Latent Dirichlet Allocation </a>
   <br></br>
