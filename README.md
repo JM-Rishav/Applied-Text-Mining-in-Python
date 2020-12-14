@@ -27,4 +27,7 @@
   <br></br>
   More about Plate Notations
   <a href = "https://en.wikipedia.org/wiki/Plate_notation"> Plate Notation </a>
+  <br></br>
+  Journal of Machine learning Research
+  <a href = "https://github.com/JM-Rishav/Applied-Text-Mining-in-Python/blob/main/blei03a.pdf"> JMLR </a>
 </div>
