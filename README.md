@@ -12,6 +12,7 @@
 <div>
   <h2>week 3</h2>
   CASE STUDY : Sentimental Analysis
+  <br>
   <br>Count Vectorizer</br>
   <br>Tf-idf</br>
   <br>n-grams</br>
