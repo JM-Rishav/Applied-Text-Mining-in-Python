@@ -13,6 +13,10 @@
   <br>bigrams</br>
   <br>trigrams</br>
 </div>
+<div>
+  <h2>week 3</h2>
+  CASE STUDY : Sentimental Analysis
+<div>
 <br></br>
 <div>
   <h2>week 4</h2>
