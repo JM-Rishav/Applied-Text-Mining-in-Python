@@ -4,8 +4,9 @@
   <br>week 2</br>
   
 </div>
+
 <div>
-  <br>CASE STUDY : Sentimental Analysis</br>
+  <h2>week 2</h2>
   <br>Data prep</br>
 
 </div>
