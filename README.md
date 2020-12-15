@@ -1,14 +1,13 @@
 # Applied-Text-Mining-in-Python
 <div>
   <br>week 1</br>
-  <br>week 2</br>
-  
 </div>
 
 <div>
   <h2>week 2</h2>
   Data prep
 </div>
+<br></br>
 <div>
   <h2>week 3</h2>
   CASE STUDY : Sentimental Analysis
