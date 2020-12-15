@@ -7,8 +7,7 @@
 
 <div>
   <h2>week 2</h2>
-  <br>Data prep</br>
-
+  Data prep
 </div>
 <div>
   <h2>week 3</h2>
