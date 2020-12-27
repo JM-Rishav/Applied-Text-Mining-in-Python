@@ -2,7 +2,7 @@
 <div>
   <h2>week 1</h2>
 </div>
-<br><>
+<br></br>
 <div>
   <h2>week 2</h2>
   Data prep
