@@ -1,6 +1,9 @@
 # Applied-Text-Mining-in-Python
 <div>
   <h2>week 1</h2>
+  Common issues with free text
+  <br></br>
+  Regular expression usage for text mining
   <a href = "https://docs.python.org/3/library/re.html"> Regular Expression </a>
 </div>
 <br></br>
