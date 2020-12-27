@@ -1,6 +1,7 @@
 # Applied-Text-Mining-in-Python
 <div>
   <h2>week 1</h2>
+  <a href = "https://docs.python.org/3/library/re.html"> Regular Expression </a>
 </div>
 <br></br>
 <div>
