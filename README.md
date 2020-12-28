@@ -5,8 +5,8 @@
   <br>Working with text data on pandas <a href = "https://github.com/JM-Rishav/Applied-Text-Mining-in-Python/blob/main/Regex%2Bwith%2BPandas%2Band%2BNamed%2BGroups.ipynb"> ipynb here </a></br>
   <br></br>
   Common issues with free text
-  Regular expression usage for text mining
-  <a href = "https://docs.python.org/3/library/re.html"> Regular Expression </a>
+  <br>Regular expression usage for text mining
+  <a href = "https://docs.python.org/3/library/re.html"> Regular Expression </a></br>
   <br></br>
   Tips and tricks of the trade for cleaning text in python
   
