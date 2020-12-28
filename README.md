@@ -1,6 +1,8 @@
 # Applied-Text-Mining-in-Python
 <div>
   <h2>week 1</h2>
+  <br>Working with text <a href = "https://github.com/JM-Rishav/Applied-Text-Mining-in-Python/blob/main/Working%2BWith%2BText.ipynb"> ipynb here </a></br>
+  
   Common issues with free text
   <br></br>
   Regular expression usage for text mining
