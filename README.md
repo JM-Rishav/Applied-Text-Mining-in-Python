@@ -7,9 +7,9 @@
   Common issues with free text
   <br>Regular expression usage for text mining
   <a href = "https://docs.python.org/3/library/re.html"> Regular Expression </a></br>
-  
+  <br></br>
   Tips and tricks of the trade for cleaning text in python
-  
+  <br>Steps for effective text data cleaning (with case study using Python)</br>
 </div>
 <br></br>
 <div>
