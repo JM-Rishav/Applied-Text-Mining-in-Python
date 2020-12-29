@@ -9,7 +9,7 @@
   <a href = "https://docs.python.org/3/library/re.html"> Regular Expression </a></br>
   <br></br>
   Tips and tricks of the trade for cleaning text in python
-  <br>Steps for effective text data cleaning (with case study using Python)</br>
+  <br>Steps for effective text data cleaning (with case study using Python) <a href = "https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/"> here </a></br>
   <a href = "https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/"> here </a>
 </div>
 <br></br>
