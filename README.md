@@ -10,7 +10,8 @@
   <br></br>
   Tips and tricks of the trade for cleaning text in python
   <br>Steps for effective text data cleaning (with case study using Python) <a href = "https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/"> here </a></br>
-
+Cleaning text for natural language processing task in machine learning
+<a href = "http://ieva.rocks/2016/08/07/cleaning-text-for-nlp/"> here </a>
 </div>
 <br></br>
 <div>
