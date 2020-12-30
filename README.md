@@ -20,6 +20,8 @@
 <div>
   <h2>week 2</h2>
   Data prep
+  <br>Basic NLP task with NLTK</br>
+  <br>Advanced NLP task with NLTK</br>
 </div>
 
 <br></br>
