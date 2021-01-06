@@ -3,7 +3,7 @@
 <div>
   <h2>week 1</h2>
   <br>Working with text <a href = "https://github.com/JM-Rishav/Applied-Text-Mining-in-Python/blob/main/Working%2BWith%2BText.ipynb"> ipynb </a></br>
-  <br>Working with text data on pandas <a href = "https://github.com/JM-Rishav/Applied-Text-Mining-in-Python/blob/main/Regex%2Bwith%2BPandas%2Band%2BNamed%2BGroups.ipynb"> ipynb here </a></br>
+  <br>Working with text data on pandas <a href = "https://github.com/JM-Rishav/Applied-Text-Mining-in-Python/blob/main/Regex%2Bwith%2BPandas%2Band%2BNamed%2BGroups.ipynb"> ipynb </a></br>
   <br></br>
   Common issues with free text
   <br>Regular expression usage for text mining
